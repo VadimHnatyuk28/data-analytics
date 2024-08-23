@@ -4,7 +4,7 @@
 
 ## Проект №1. Дослідження данних учнів:
 - [Опис ТЗ](https://github.com/VadimHnatyuk28/data-analytics/blob/main/school-data/ТЗ.md)
-- Результат роботи
-- Звіт по роботі
+- [Результат роботи](https://github.com/VadimHnatyuk28/data-analytics/blob/main/school-data/main.ipynb)
+- [Звіт по роботі](https://github.com/VadimHnatyuk28/data-analytics/blob/main/school-data/Report.pdf)
 
 ### Суть даного завдання, дослідити зв'язки та залежності впливу деяких факторів на інші фактори. Детальний опис знаходиться у файлі опису ТЗ
